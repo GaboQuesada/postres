@@ -19,7 +19,7 @@ acceder por medio de ssh
 
 -  \l    listar las tablas de datos
 
--  
+  
 
   
 
