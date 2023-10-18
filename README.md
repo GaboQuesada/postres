@@ -15,6 +15,12 @@ acceder por medio de ssh
 - \q  PARA SALIR
 - exit   para salir del usuario postgres
 
+-  ******************************
+
+-  \l    listar las tablas de datos
+
+-  
+
   
 
 
