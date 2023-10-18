@@ -12,4 +12,6 @@ acceder por medio de ssh
 
 - ALTER USER postgres PASSWORD 'NUEVACONTRASEÑA';
 
+- \q  PARA SALIR
+
 
