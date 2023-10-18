@@ -4,12 +4,12 @@ POSTGRESQL
 
 acceder por medio de ssh
 
-sudo -i -u postgres
+- sudo -i -u postgres
 
 
-psql
+- psql
 
 
-ALTER USER postgres PASSWORD 'NUEVACONTRASEÑA';
+- ALTER USER postgres PASSWORD 'NUEVACONTRASEÑA';
 
 
